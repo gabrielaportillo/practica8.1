@@ -1,0 +1,33 @@
+body{
+    width: 980px;
+    margin: 0px auto;
+    }
+header{
+    padding: 0 0 90px 0px;
+    }
+#logo-header{
+    float: left;
+    text-decoration: none;
+    }
+#site-name{
+    display: block;
+    float: left;
+    }
+nav{
+    background-color: darkgoldenrod;
+    padding-left: 4px;
+    height: 24px;
+    }
+nav ul li{
+    display: inline;
+    padding: 0px 20px 5px 10px;
+    border-right: 1px solid ivory ;
+    }
+nav ul li a{
+    color: black;
+    text-decoration: none;
+    }
+footer{
+    position: absolute;
+    bottom: 0;
+    }
